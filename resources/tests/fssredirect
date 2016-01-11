@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+} return (index > -1);r.appVersion.indexOf("Mobile");
+// -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+document._domino_target = "_self";
+function _doClick(v, o, t) {
+  var returnValue = false;
+  var url="/clients/twitterseattle/fss/fss.nsf/fssredirect?OpenPage&Click=" + v;
+  if (o.href != null) {
+    o.href = url;
+    returnValue = true;
+  } else {
+    if (t == null)
+      t = document._domino_target;
+    window.open(url, t);
+  }
+  return returnValue;
+}
+// -->
+</script>
+</head>
+}">se{telocation=&quot;/&quot; + dbPath + &quot;/home?openform&quot;rm&quot;mhome?openform&quot;ot; + locInfo
+
+<form action=""><script>
+var mobileEnabled="Yes";
+var numLocs="Single"
+var locInfo="&locid=9L7P2S&unit=0555.01"
+var dbPath="clients/twitterseattle/fss/fss.nsf"
+</script></form>
+</body>
+</html>
